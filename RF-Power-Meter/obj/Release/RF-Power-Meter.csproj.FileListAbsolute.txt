@@ -1,0 +1,9 @@
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\bin\Release\RF-Power-Meter.exe.config
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\bin\Release\RF-Power-Meter.exe
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\bin\Release\RF-Power-Meter.pdb
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF_Power_Meter.Form1.resources
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF_Power_Meter.Properties.Resources.resources
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF-Power-Meter.csproj.GenerateResource.cache
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF-Power-Meter.csproj.CoreCompileInputs.cache
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF-Power-Meter.exe
+C:\Data\Projects\2021 Service\2021-12-07 Анализ мощности передатчика\RF-Power-Meter\RF-Power-Meter\obj\Release\RF-Power-Meter.pdb
