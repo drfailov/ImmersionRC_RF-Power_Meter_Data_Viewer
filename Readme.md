@@ -1,6 +1,7 @@
+ImmersionRC RF Power meter software.
 Immersion RC RF-Power meter USB Data Viewer
 Alows to view data and build simple plot.
-USB Serial Plotter
+USB Serial Plotter software.
 
 
 <p align="center">
